@@ -190,7 +190,7 @@ export default function mainPage(){
             </Image>
         )
     }
-    function Footer(props){
+    function Footer(){
         const contactList = [
             "FaInstagram",
             "FaWhatsapp",
